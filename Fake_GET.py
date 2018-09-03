@@ -1,5 +1,5 @@
 #!flask/bin/python
-"""Xccelerated
+"""
 
 1st Exercise
 Fake Resolution

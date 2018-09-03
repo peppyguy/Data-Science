@@ -1,5 +1,5 @@
 #!flask/bin/python
-"""Xccelerated
+"""
 
 2nd Exercise
 Resolution
